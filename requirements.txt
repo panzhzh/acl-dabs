@@ -1,0 +1,28 @@
+# Note: because this project was developed on an RTX 5090 GPU, some packages were early locally built versions; please choose approximately matching versions if exact builds are unavailable.
+# Note: do not use Transformers v5.x, as parts of the current codebase are not compatible with it.
+# Core training stack
+torch==2.8.0.dev20250627+cu128
+transformers==4.53.3
+accelerate==1.6.0
+peft==0.15.2
+safetensors==0.6.2
+sentencepiece==0.2.0
+
+# Data and evaluation
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.6.1
+tqdm==4.67.1
+datasets==3.3.2
+
+# Visualization and analysis
+matplotlib==3.10.3
+seaborn==0.13.2
+thop==0.1.1.post2209072238
+
+# Text preprocessing
+nltk==3.9.1
+stanza==1.10.1
+
+# Optional: only needed for bitsandbytes / QLoRA-style runs
+bitsandbytes==0.46.0.dev0
