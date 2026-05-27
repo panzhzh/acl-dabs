@@ -47,7 +47,7 @@ Experiments on four ATSA benchmarks show that DABS achieves competitive performa
 └── requirements.txt             # package versions
 ```
 
-## Requirements
+## :hammer_and_wrench: Requirements
 
 Install dependencies with:
 
