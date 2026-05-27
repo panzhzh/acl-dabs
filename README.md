@@ -1,11 +1,4 @@
-# Single-Pass, Depth-Selective Reading for Multi-Aspect Sentiment Analysis
-
-Updated on June 27, 2026 (Paper is uploaded)
-
-Released on April 13, 2026
-
----
-
+# Single-Pass, Depth-Selective Reading for Multi-Aspect Sentiment Analysis (Official Site)
 
 This repository contains the official code for our ACL 2026 (main, long paper) - **Single-Pass, Depth-Selective Reading for Multi-Aspect Sentiment Analysis**
 <p>
@@ -13,7 +6,16 @@ This repository contains the official code for our ACL 2026 (main, long paper) -
     <img src="https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv" alt="Paper">
   </a>
 
-## Introduction
+##### Updated on June 27, 2026 (Paper is uploaded)
+
+##### Released on April 13, 2026
+
+---
+<p align="center">
+  <img src="figures/DABS_framework.png" height="300" alt="DABS framework">
+</p>
+
+## :rocket: Introduction
 
 **DABS** is a **single-pass inference** framework for Aspect-Term Sentiment Analysis in multi-aspect sentences. It encodes each sentence once to construct a **reusable, depth-ordered substrate**, and then performs **aspect-conditioned readout** without re-encoding. The framework consists of:
 
@@ -21,8 +23,6 @@ This repository contains the official code for our ACL 2026 (main, long paper) -
 - **ACBS**, which performs **aspect-conditioned token localization** and **budget-aware depth selection**.
 
 Experiments on four ATSA benchmarks show that DABS achieves competitive performance while reducing end-to-end computation by up to 60% in multi-aspect settings (M > 2).
-
-![DABS framework](figures/DABS_framework.png)
 
 ## Repository Layout
 
