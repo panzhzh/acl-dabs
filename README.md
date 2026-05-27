@@ -2,10 +2,11 @@
 
 This repository contains the official code for our ACL 2026 (main, long paper) - **Single-Pass, Depth-Selective Reading for Multi-Aspect Sentiment Analysis**
 <p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Paper-Coming%20Soon-red?style=for-the-badge&logo=adobeacrobatreader" alt="Paper">
-  </a></p>
+  <a href="[https://arxiv.org/abs/2604.14062](https://arxiv.org/abs/2605.20998)" target="_blank">
+    <img src="https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv" alt="Paper">
+  </a>
 
+#### June, 26 - Paper PDF is now available.
 #### (Released on April 13, 2026)
 
 ## Introduction
