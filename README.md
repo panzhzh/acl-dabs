@@ -6,7 +6,7 @@ This repository contains the official code for our ACL 2026 (main, long paper) -
   <img src="https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge&logo=arxiv" alt="Paper">
   </a>
 
-##### Updated on June 27, 2026 (Paper is uploaded)
+##### Updated on May 27, 2026 (Paper is uploaded)
 
 ##### Released on April 13, 2026
 
