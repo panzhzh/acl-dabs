@@ -1,0 +1,6 @@
+# Install a CUDA-enabled PyTorch build appropriate for the local driver.
+torch>=2.8,<3
+transformers>=4.53,<6
+numpy>=1.26,<3
+sentencepiece>=0.2,<1
+safetensors>=0.6,<1
