@@ -1,12 +1,12 @@
 # Single-Pass, Depth-Selective Reading for Multi-Aspect Sentiment Analysis (Official Site)
 
-**🎓 [ACL Conference Release](#acl-conference-release)**
+**🎤 [ACL Conference Release](#acl-conference-release)**
 
-**🧩 [Journal Extension](#journal-extension)**
+**🎓 [Journal Extension](#journal-extension)**
 
 <a id="acl-conference-release"></a>
 
-## ACL Conference Release
+## 🎤 ACL Conference Release
 
 This repository contains the official code for our ACL 2026 (main conference,
 long paper, oral presentation) paper—**Single-Pass, Depth-Selective Reading for
@@ -186,7 +186,7 @@ These benchmarks do not provide a standard development split. Following the prot
 
 <a id="journal-extension"></a>
 
-# Journal Extension
+# 🎓 Journal Extension
 
 The journal extension studies whether the same single-encoder, reusable DABS
 principle transfers from supplied-aspect ATSA to latent structured affective
